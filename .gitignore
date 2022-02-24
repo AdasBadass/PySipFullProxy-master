@@ -1,0 +1,5 @@
+README.md
+.gitattributes
+/venv
+/__pycache__
+/.idea
